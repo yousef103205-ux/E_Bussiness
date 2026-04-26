@@ -1,0 +1,50 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ophelia.Api", "Ophelia.Api\Ophelia.Api.csproj", "{7A383B7D-8CEC-C7B2-6D1B-CE509AFBDD58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_backup_old_nested_folders", "_backup_old_nested_folders", "{220E3DCF-3CE6-DDE5-10D2-A4CF4E58E9B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "E_Bussiness", "E_Bussiness", "{EA5D7623-3368-A299-C269-7ECAD627B6AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "E-Bussiness", "E-Bussiness", "{C6A34563-4480-D0DE-87AE-F3177C116E30}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "E-Bussiness", "E-Bussiness", "{ACD83B8F-B5BB-1A2B-68D3-0E0674F7958E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "E-Bussiness", "E-Bussiness", "{7A4BE9F4-276F-7FEC-3B54-6FE087E7D665}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "E-Bussiness", "E-Bussiness", "{651781E3-BE92-3EBB-D733-3179F7893445}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ophelia.Api", "_backup_old_nested_folders\E_Bussiness\E-Bussiness\E-Bussiness\E-Bussiness\E-Bussiness\Ophelia.Api\Ophelia.Api.csproj", "{0EA50FB8-ECDB-474B-0E16-26E68770B7D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A383B7D-8CEC-C7B2-6D1B-CE509AFBDD58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A383B7D-8CEC-C7B2-6D1B-CE509AFBDD58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A383B7D-8CEC-C7B2-6D1B-CE509AFBDD58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A383B7D-8CEC-C7B2-6D1B-CE509AFBDD58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA50FB8-ECDB-474B-0E16-26E68770B7D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA50FB8-ECDB-474B-0E16-26E68770B7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA50FB8-ECDB-474B-0E16-26E68770B7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA50FB8-ECDB-474B-0E16-26E68770B7D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EA5D7623-3368-A299-C269-7ECAD627B6AC} = {220E3DCF-3CE6-DDE5-10D2-A4CF4E58E9B7}
+		{C6A34563-4480-D0DE-87AE-F3177C116E30} = {EA5D7623-3368-A299-C269-7ECAD627B6AC}
+		{ACD83B8F-B5BB-1A2B-68D3-0E0674F7958E} = {C6A34563-4480-D0DE-87AE-F3177C116E30}
+		{7A4BE9F4-276F-7FEC-3B54-6FE087E7D665} = {ACD83B8F-B5BB-1A2B-68D3-0E0674F7958E}
+		{651781E3-BE92-3EBB-D733-3179F7893445} = {7A4BE9F4-276F-7FEC-3B54-6FE087E7D665}
+		{0EA50FB8-ECDB-474B-0E16-26E68770B7D4} = {651781E3-BE92-3EBB-D733-3179F7893445}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2471D34E-0537-420B-9E07-52968E0F9AEC}
+	EndGlobalSection
+EndGlobal
